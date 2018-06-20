@@ -87,7 +87,7 @@ public class Pattern {
     public static void main(String[] args)
     {
         Pattern p1=new Pattern();
-        p1.Pattern1(10);
+        p1.Pattern1(12);
         System.out.println(" ");
         p1.Pattern2(10);
         System.out.println(" ");
